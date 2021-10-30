@@ -1,0 +1,58 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-17cb8b125c5-1d305a197e1a3eb": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "TierraMedia.db",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "C:\\Users\\MICHELA\\eclipse-workspace\\TierraMediaMaven\\TierraMedia.db",
+				"url": "jdbc:sqlite:C:\\Users\\MICHELA\\eclipse-workspace\\TierraMediaMaven\\TierraMedia.db",
+				"type": "dev",
+				"auth-model": "native",
+				"handlers": {}
+			}
+		},
+		"sqlite_jdbc-17cb8b71377-2966aba8c67e1208": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "TierraMedia.db 2",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "C:\\Users\\MICHELA\\eclipse-workspace\\TierraMediaMaven\\TierraMedia.db",
+				"url": "jdbc:sqlite:C:\\Users\\MICHELA\\eclipse-workspace\\TierraMediaMaven\\TierraMedia.db",
+				"type": "dev",
+				"auth-model": "native",
+				"handlers": {}
+			}
+		},
+		"sqlite_jdbc-17cb8b8978e-67cab5d320153881": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "TierraMedia.db 3",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "C:\\Users\\MICHELA\\eclipse-workspace\\TierraMediaMaven\\TierraMedia.db",
+				"url": "jdbc:sqlite:C:\\Users\\MICHELA\\eclipse-workspace\\TierraMediaMaven\\TierraMedia.db",
+				"type": "dev",
+				"auth-model": "native",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
